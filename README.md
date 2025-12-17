@@ -21,7 +21,7 @@ Using **Natural Language Processing (TextBlob)** and temporal data analysis, we 
 https://ukmaedu-my.sharepoint.com/:x:/g/personal/n_babakov_ukma_edu_ua/IQCpG1F1ODOQRbrq9dEex_NjAZDk8efrINbF8Ao4WGxKizw?e=gmsTcV
 
 ### 📂 Repository Structure
-* `eda.ipynb` - The main Jupyter Notebook containing Data Cleaning, EDA, Sentiment Analysis, and Visualization code.
+* `eda1.ipynb` - The main Jupyter Notebook containing Data Cleaning, EDA, Sentiment Analysis, and Visualization code.
 * `requirements.txt` - List of Python dependencies required to run the project.
 * `6_13.pdf` - Final presentation slides summarizing the research.
 
