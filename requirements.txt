@@ -3,4 +3,8 @@ numpy
 matplotlib
 seaborn
 textblob
+nltk
 jupyter
+notebook
+ipykernel
+scipy
